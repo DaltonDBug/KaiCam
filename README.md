@@ -1,2 +1,2 @@
 # KaiCam
-programs for the kiddos
+python program for the kids
