@@ -2,8 +2,8 @@
 
 print("Hello there...")
 
-name = input(print("What is your name?"))
+name = input("What is your name? ")
 
-print("Nice to meet you", name, "!")
+print("Nice to meet you, ", name, "!", sep="")
                    
 print("My name is Mr. Bean.")
