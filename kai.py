@@ -2,7 +2,7 @@
 
 print("Hello there...")
 
-name = input(print("What is your name? ))
+name = input(print("What is your name?"))
 
 print("Nice to meet you", name, "!")
                    
